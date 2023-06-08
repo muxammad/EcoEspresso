@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoExpresso.Domain", "src\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoExpresso.DataAccess", "src\EcoExpresso.DataAccess\EcoExpresso.DataAccess.csproj", "{1C8F852E-8911-493C-AF7D-D15CE7DD4AEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoExpresson.Service", "src\EcoExpresson.Service\EcoExpresson.Service.csproj", "{5E502474-8993-4B87-B509-71633754D220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C8F852E-8911-493C-AF7D-D15CE7DD4AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C8F852E-8911-493C-AF7D-D15CE7DD4AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C8F852E-8911-493C-AF7D-D15CE7DD4AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E502474-8993-4B87-B509-71633754D220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E502474-8993-4B87-B509-71633754D220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E502474-8993-4B87-B509-71633754D220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E502474-8993-4B87-B509-71633754D220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

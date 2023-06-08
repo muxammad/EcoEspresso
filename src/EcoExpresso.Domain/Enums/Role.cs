@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EcoExpresso.Domain.Entities
+namespace EcoExpresso.Domain.Enums
 {
-    public class User
+    public enum Role
     {
-
+        User,
+        Admin,
+        Chef
     }
 }
